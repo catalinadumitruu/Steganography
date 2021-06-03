@@ -1,0 +1,4 @@
+﻿  03_Task01.cpp
+D:\Facultate\1. Master\Semestrul 2\07. Multimedia\03_Task01\03_Task01.cpp(224,6): warning C4101: 'Xoredletter': unreferenced local variable
+D:\Facultate\1. Master\Semestrul 2\07. Multimedia\03_Task01\03_Task01.cpp(275,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  03_Task01.vcxproj -> D:\Facultate\1. Master\Semestrul 2\07. Multimedia\03_Task01\Debug\03_Task01.exe
